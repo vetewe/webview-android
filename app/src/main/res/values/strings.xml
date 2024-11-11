@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWebView</string>
+    <string name="web_dicoding_berhasil_dimuat">Web Dicoding berhasil dimuat</string>
+    <string name="javascript_alert_web_dicoding_berhasil_dimuat">javascript:alert(\'Web Dicoding berhasil dimuat\')</string>
+</resources>
